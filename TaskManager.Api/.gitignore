@@ -1,0 +1,100 @@
+# Rider project settings
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+
+# Rider caches
+.idea/
+*.iml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User secrets
+secrets.json
+
+# DotCover
+*.dotCover
+
+# DotTrace
+*.dotTrace
+
+# DotMemory
+*.dotMemory
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+*.nupkg.metadata
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Paket dependency manager
+.paket/
+paket-files/
+
+# Azure
+PublishProfiles/
+*.azurePubxml
+*.pubxml
+*.publishproj
+*.pubxml.user
+
+# Others
+*.swp
+*~
+*.dbmdl
+*.bak
+*.backup
+*.ldf
+*.ndf
+
+# Logs and reports
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+*.tmp
+*.temp
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# Coverage reports
+coverage*.json
+coverage*.xml
+coverage*.info
+*.coverage
+*.coveragexml
+
+# Docker
+docker-compose.override.yml
+.docker/
+
+# Local tools
+tools/
+
+# Generated files
+Generated_Code/
